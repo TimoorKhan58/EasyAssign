@@ -6,6 +6,10 @@
  */
 
 const { execSync } = require('child_process');
+const dotenv = require('dotenv');
+
+// Load environment variables from .env
+dotenv.config();
 
 console.log('🚀 Starting EasyAssign Server...\n');
 

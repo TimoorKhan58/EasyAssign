@@ -8,6 +8,7 @@
     "dev": "nodemon server.js",
     "generate": "prisma generate",
     "db:push": "prisma db push",
+    "build": "prisma generate && prisma db push",
     "postinstall": "prisma generate"
   },
   "keywords": [],

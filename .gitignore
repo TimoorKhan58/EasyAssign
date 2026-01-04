@@ -33,3 +33,9 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
+
+# Ignore all markdown files
+*.md
+
+# BUT allow README.md
+!README.md

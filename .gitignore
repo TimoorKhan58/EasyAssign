@@ -37,5 +37,6 @@ Thumbs.db
 # Ignore all markdown files
 *.md
 
-# BUT allow README.md
+# BUT allow README.md and DOCUMENTATION.md
 !README.md
+
